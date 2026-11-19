@@ -1,0 +1,132 @@
+[
+  {
+    "objectID": "interesting_hybrids.html",
+    "href": "interesting_hybrids.html",
+    "title": "Interesting Hybrids in Carcinomas",
+    "section": "",
+    "text": "Interesting hybrids were defined as hybrids with over a log2FC of 1, and are not redundant (significant gene expression overlap). Only carcinomas are shown here, and the rows are ordered by prevalence across carcinomas.\n\n\n\nInteresting Hybrids",
+    "crumbs": [
+      "Interesting Hybrids in Carcinomas"
+    ]
+  },
+  {
+    "objectID": "hybrid_participation_heatmap.html",
+    "href": "hybrid_participation_heatmap.html",
+    "title": "Hybrid Participation of each MP across each cancer type",
+    "section": "",
+    "text": "Each cell represents the % of the total possible hybrids an MP could have formed, calculated using all MPs identified in that cancer type.\n\n\n\nAll Cancer Types\n\n\n\nAll Cancer Types\n\n\n\n\n\nWell-represented\n\n\n\nWell Represented Cancer Types Only",
+    "crumbs": [
+      "MP x Cancer Type: Hybrid Participation Heatmap"
+    ]
+  },
+  {
+    "objectID": "hybrid_heatmaps/lymphoid.html",
+    "href": "hybrid_heatmaps/lymphoid.html",
+    "title": "MP-MP Heatmap of Lymphoid Cancer",
+    "section": "",
+    "text": "Subsetted to only metaprograms considered in Lymphoid cancer\n\n\n\nHeatmap",
+    "crumbs": [
+      "MP-MP Hybrid Heatmaps",
+      "Lymphoid"
+    ]
+  },
+  {
+    "objectID": "hybrid_heatmaps/pancreas.html",
+    "href": "hybrid_heatmaps/pancreas.html",
+    "title": "MP-MP Heatmap of Pancreas Cancer",
+    "section": "",
+    "text": "Subsetted to only metaprograms considered in Pancreas cancer\n\n\n\nHeatmap",
+    "crumbs": [
+      "MP-MP Hybrid Heatmaps",
+      "Pancreas"
+    ]
+  },
+  {
+    "objectID": "hybrid_heatmaps/myeloid.html",
+    "href": "hybrid_heatmaps/myeloid.html",
+    "title": "MP-MP Heatmap of Myeloid Cancer",
+    "section": "",
+    "text": "Subsetted to only metaprograms considered in Myeloid cancer\n\n\n\nHeatmap",
+    "crumbs": [
+      "MP-MP Hybrid Heatmaps",
+      "Myeloid"
+    ]
+  },
+  {
+    "objectID": "hybrid_heatmaps/glioma.html",
+    "href": "hybrid_heatmaps/glioma.html",
+    "title": "MP-MP Heatmap of Glioma Cancer",
+    "section": "",
+    "text": "Subsetted to only metaprograms considered in Glioma\n\n\n\nHeatmap",
+    "crumbs": [
+      "MP-MP Hybrid Heatmaps",
+      "Glioma"
+    ]
+  },
+  {
+    "objectID": "hybrid_heatmaps/colorectal.html",
+    "href": "hybrid_heatmaps/colorectal.html",
+    "title": "MP-MP Heatmap of Colorectal Cancer",
+    "section": "",
+    "text": "Subsetted to only metaprograms considered in colorectal cancer\n\n\n\nHeatmap",
+    "crumbs": [
+      "MP-MP Hybrid Heatmaps",
+      "Colorectal"
+    ]
+  },
+  {
+    "objectID": "hybrid_heatmaps/gynecologic.html",
+    "href": "hybrid_heatmaps/gynecologic.html",
+    "title": "MP-MP Heatmap of Gynecologic Cancer",
+    "section": "",
+    "text": "Subsetted to only metaprograms considered in Gynecologic cancer\n\n\n\nHeatmap",
+    "crumbs": [
+      "MP-MP Hybrid Heatmaps",
+      "Gynecologic"
+    ]
+  },
+  {
+    "objectID": "hybrid_heatmaps/breast.html",
+    "href": "hybrid_heatmaps/breast.html",
+    "title": "MP-MP Heatmap of Breast Cancer",
+    "section": "",
+    "text": "Subsetted to only metaprograms considered in breast cancer\n\n\n\nHeatmap",
+    "crumbs": [
+      "MP-MP Hybrid Heatmaps",
+      "Breast"
+    ]
+  },
+  {
+    "objectID": "hybrid_heatmaps/melanoma.html",
+    "href": "hybrid_heatmaps/melanoma.html",
+    "title": "MP-MP Heatmap of Melanoma Cancer",
+    "section": "",
+    "text": "Subsetted to only metaprograms considered in Melanoma cancer\n\n\n\nHeatmap",
+    "crumbs": [
+      "MP-MP Hybrid Heatmaps",
+      "Melanoma"
+    ]
+  },
+  {
+    "objectID": "hybrid_heatmaps/other.html",
+    "href": "hybrid_heatmaps/other.html",
+    "title": "MP-MP Heatmap of non-well powered cancers",
+    "section": "",
+    "text": "Subsetted to only metaprograms considered in cancer types we aren’t as well powered in\n\nUpper Aerodigestive\n\n\n\nUpper Aerodigestive Heatmap\n\n\n\n\nSkin Carcinoma\n\n\n\nSkin Carcinoma Heatmap\n\n\n\n\nLung (small cell)\n\n\n\nLung (small cell) Heatmap\n\n\n\n\nLung (non-small cell)\n\n\n\nLung (non-small cell) Heatmap\n\n\n\n\nProstate\n\n\n\nProstate Heatmap\n\n\n\n\nRenal\n\n\n\nRenal Heatmap\n\n\n\n\nHepatobiliary\n\n\n\nHepatobiliary Heatmap\n\n\n\n\nEpendymoma\n\n\n\nEpendymoma Heatmap\n\n\n\n\nMeningioma\n\n\n\nMeningioma Heatmap\n\n\n\n\nNeuroblastoma\n\n\n\nNeuroblastoma Heatmap\n\n\n\n\nSarcoma\n\n\n\nSarcoma Heatmap\n\n\n\n\nThyroid\n\n\n\nThyroid Heatmap\n\n\n\n\nGastrointestinal\n\n\n\nGastrointestinal Heatmap",
+    "crumbs": [
+      "MP-MP Hybrid Heatmaps",
+      "Other"
+    ]
+  },
+  {
+    "objectID": "focused_analyses/specific_metaprograms.html",
+    "href": "focused_analyses/specific_metaprograms.html",
+    "title": "Hybrid Distributions for Metaprograms of Interest",
+    "section": "",
+    "text": "For a given metaprogram of interest, I have included:\n\nMP Class + Genes\nNotes about the MP and what we know from the literature\nMP x Cancer Type heatmap, in which each cell represents the enrichment of the hybrid formed between the MP of interest, and the MP on the row.\nHybrid participation across cancer types\n\n\nEMT-I\nMP class: Lineage\nTop genes (most frequent across NMF programs first; 98 total): SPARC, COL1A2, FN1, COL1A1, COL3A1, IGFBP7, COL6A2, BGN, TAGLN, CALD1, COL6A1, DCN, COL6A3, LUM, C1S, MYL9, TIMP3, COL5A2, VCAN, MMP2, TIMP1, CCDC80, TPM2, AEBP1, FSTL1, …\n\n\nAll 98 genes\n\nSPARC, COL1A2, FN1, COL1A1, COL3A1, IGFBP7, COL6A2, BGN, TAGLN, CALD1, COL6A1, DCN, COL6A3, LUM, C1S, MYL9, TIMP3, COL5A2, VCAN, MMP2, TIMP1, CCDC80, TPM2, AEBP1, FSTL1, C1R, MGP, SERPINF1, THY1, CTHRC1, RARRES2, SERPING1, VIM, ACTA2, PCOLCE, CTSK, POSTN, SFRP2, NNMT, SPARCL1, TPM1, FBLN1, IGFBP4, COL5A1, LGALS1, COL4A2, CTGF, A2M, IGFBP5, THBS2, TIMP2, COL12A1, COL4A1, PRSS23, MXRA8, GSN, COL18A1, ID3, ISLR, MXRA5, CAV1, CXCL12, SOD3, CYR61, FBN1, IFITM2, MAP1B, PLAC9, TCF4, LRP1, MFAP2, MFAP4, CST3, CXCL14, IFITM3, MFGE8, SERPINH1, C3, COL14A1, HTRA1, IFI27, IGFBP6, APOE, CAVIN1, PRRX1, MYLK, PDGFRB, CDH11, CRIP2, APOD, CLU, CNN3, EFEMP1, MT2A, S100A4, MCAM, PALLD, TGFBI\n\n\nNotes\n\nWrite notes here.\n\n\n\n\n\n\n\nEnrichment (log2FC) of hybrids between EMT-I and each partner MP (rows), per cancer type. Grey = not tested.\n\n\n\n\n\n\n\nShare of possible activity / lineage hybrids that EMT-I forms in each cancer type.\n\n\n\n\n\n\n\n\nEMT-II\nMP class: Lineage\nTop genes (most frequent across NMF programs first; 104 total): LAMC2, LAMB3, LAMA3, COL17A1, PLAU, EMP3, TGFBI, SERPINE1, FLNA, PMEPA1, F3, CAV1, TNC, LGALS1, TNFRSF12A, PTHLH, INHBA, MT2A, ITGB1, VIM, ITGA6, DCBLD2, IGFBP6, ITGA3, S100A2, …\n\n\nAll 104 genes\n\nLAMC2, LAMB3, LAMA3, COL17A1, PLAU, EMP3, TGFBI, SERPINE1, FLNA, PMEPA1, F3, CAV1, TNC, LGALS1, TNFRSF12A, PTHLH, INHBA, MT2A, ITGB1, VIM, ITGA6, DCBLD2, IGFBP6, ITGA3, S100A2, KRT17, ITGA2, SERPINE2, PRSS23, IGFBP7, ITGB6, NDRG1, FSTL3, PDPN, PHLDA1, ITGB4, IGFBP3, MMP1, MMP10, PLAUR, AREG, IL32, THBS1, CST6, ITGAV, ACTN1, FAM83A, PDLIM7, RBP1, FST, NT5E, SEMA3C, ANXA3, SLC2A1, TGM2, CDA, DST, FERMT1, ITGA5, ANGPTL4, G0S2, JAG1, KRT7, MSN, PLEC, SDC4, FLNB, FN1, PLEK2, TIMP3, UPP1, HMGA2, IL1R2, NRG1, AKAP12, CALD1, CDH3, CLDN1, ECM1, TPM1, C15ORF48, CXCL14, PRKCDBP, RHOD, AHNAK2, CDKN1A, LTBP1, MMP9, ODC1, P3H2, TINAGL1, TNFRSF6B, CAV2, FGFBP1, HBEGF, KLF6, SERPINH1, TM4SF1, HEPHL1, KRT6A, MMP14, P4HA2, TAGLN, VEGFA\n\n\nNotes\n\nWrite notes here.\n\n\n\n\n\n\n\nEnrichment (log2FC) of hybrids between EMT-II and each partner MP (rows), per cancer type. Grey = not tested.\n\n\n\n\n\n\n\nShare of possible activity / lineage hybrids that EMT-II forms in each cancer type.\n\n\n\n\n\n\n\n\nMYC\nMP class: Activity\nTop genes (most frequent across NMF programs first; 119 total): NME1, C1QBP, SRM, FABP5, EBNA1BP2, DCTPP1, HSPE1, NOP16, TOMM40, MRPL12, NHP2, RANBP1, DKC1, CCT5, TIMM13, LDHB, PA2G4, PAICS, ATP5G1, DDX21, GPATCH4, HSPD1, MRTO4, MYC, CYCS, …\n\n\nAll 119 genes\n\nNME1, C1QBP, SRM, FABP5, EBNA1BP2, DCTPP1, HSPE1, NOP16, TOMM40, MRPL12, NHP2, RANBP1, DKC1, CCT5, TIMM13, LDHB, PA2G4, PAICS, ATP5G1, DDX21, GPATCH4, HSPD1, MRTO4, MYC, CYCS, SNRPD1, GNL3, PPA1, EIF4EBP1, EIF5A, PHB, RUVBL1, MRPS12, EEF1E1, NOLC1, NOP56, CCT2, MRPL3, NIFK, ODC1, PNO1, RAN, LYAR, SLIRP, CMSS1, NPM3, PDCD5, PRMT1, BZW2, DCAF13, GCSH, MRPL4, SNRPF, FKBP4, SNRPE, ABCE1, CYC1, IFRD2, PAK1IP1, C20ORF27, FBL, HMGA1, RPL22L1, CDK4, IMP4, LDHA, NOP58, SLC25A5, SNHG15, WDR43, ATP5MC1, ENO1, GADD45GIP1, NCL, AHCY, POLD2, STMN1, CCDC85B, DNPH1, MIF, MRPL36, PCNA, TIMM8B, TOMM5, TRAP1, ATIC, COA4, GGCT, IMPDH2, NDUFAB1, RRP9, RRS1, TUBA1B, TXN, WDR74, APRT, CCT6A, CCT7, EXOSC5, HSD17B10, ISOC2, LSM4, MDH2, MRPS26, PEBP1, STOML2, BOP1, BRIX1, CCT3, GTPBP4, HSPA5, MRPL11, NDUFAF4, PPP1R14B, PSME2, PYCR1, TKT, TOMM22, VDAC1\n\n\nNotes\n\nWrite notes here.\n\n\n\n\n\n\n\nEnrichment (log2FC) of hybrids between MYC and each partner MP (rows), per cancer type. Grey = not tested.\n\n\n\n\n\n\n\nShare of possible activity / lineage hybrids that MYC forms in each cancer type.\n\n\n\n\n\n\n\n\nHypoxia\nMP class: Activity\nTop genes (most frequent across NMF programs first; 79 total): NDRG1, P4HA1, SLC2A1, BNIP3, VEGFA, EGLN3, ERO1A, ADM, ENO2, BNIP3L, HILPDA, PGK1, PLOD2, DDIT4, FAM162A, NDUFA4L2, LDHA, IGFBP3, SLC6A8, HK2, C4ORF3, PFKP, ANGPTL4, CA9, MT1X, …\n\n\nAll 79 genes\n\nNDRG1, P4HA1, SLC2A1, BNIP3, VEGFA, EGLN3, ERO1A, ADM, ENO2, BNIP3L, HILPDA, PGK1, PLOD2, DDIT4, FAM162A, NDUFA4L2, LDHA, IGFBP3, SLC6A8, HK2, C4ORF3, PFKP, ANGPTL4, CA9, MT1X, NRN1, ANKRD37, DDIT3, SLC16A3, PDK1, WSB1, INSIG2, GPI, BHLHE40, PFKFB3, ALDOA, ERRFI1, EPB41L4A-AS1, KDM3A, GBE1, NUPR1, TMEM45A, ENO1, MXI1, AKAP12, SERPINE1, IGFBP5, SLC3A2, IGFBP2, PGF, SLC2A3, AK4, LGALS3, MT2A, VIM, FAM13A, MIR210HG, S100A10, UPP1, HERPUD1, LGALS1, NEAT1, CAV1, DNAJB9, EGLN1, FHL2, PLAUR, TM4SF1, CA12, CD55, LAMB3, P4HA2, PLIN2, TFF1, ZFAS1, ANXA1, EFNA1, EMP1, MKNK2\n\n\nNotes\n\nWrite notes here.\n\n\n\n\n\n\n\nEnrichment (log2FC) of hybrids between Hypoxia and each partner MP (rows), per cancer type. Grey = not tested.\n\n\n\n\n\n\n\nShare of possible activity / lineage hybrids that Hypoxia forms in each cancer type.\n\n\n\n\n\n\n\n\nStress 1\nMP class: Activity\nTop genes (most frequent across NMF programs first; 97 total): ATF3, EGR1, FOSB, FOS, PPP1R15A, JUN, DUSP1, IER2, NR4A1, BTG2, ZFP36, JUNB, GADD45B, DNAJB1, KLF6, NFKBIA, RHOB, SERTAD1, KLF4, HSPA1B, IER3, NFKBIZ, HSPA1A, IRF1, CCNL1, …\n\n\nAll 97 genes\n\nATF3, EGR1, FOSB, FOS, PPP1R15A, JUN, DUSP1, IER2, NR4A1, BTG2, ZFP36, JUNB, GADD45B, DNAJB1, KLF6, NFKBIA, RHOB, SERTAD1, KLF4, HSPA1B, IER3, NFKBIZ, HSPA1A, IRF1, CCNL1, MAFF, SOCS3, HES1, DDIT3, MCL1, TRIB1, CXCL2, CYR61, CDKN1A, ID2, HSPH1, PMAIP1, KLF10, NR4A2, ID1, HSPA6, IER5, ZC3H12A, JUND, DNAJA1, RASD1, PLK2, MYC, CSRNP1, ELF3, TOB1, ZFP36L2, RND3, ZFAND2A, ID3, CITED2, CXCL8, SAT1, BAG3, GDF15, IFRD1, NCOA7, EGR2, ANKRD37, TNFAIP3, ADM, KCNQ1OT1, BRD2, ERRFI1, GADD45A, HBEGF, ZFP36L1, HERPUD1, GEM, KLF2, SOX4, CXCL1, TSC22D1, CEBPD, DDIT4, SGK1, INTS6, TXNIP, AREG, CLDN4, HEXIM1, NEAT1, RGS2, AC020916.1, ARC, BTG1, DUSP2, TIPARP, CXCL3, DNAJB4, RGS16, MAFB\n\n\nNotes\n\nWrite notes here.\n\n\n\n\n\n\n\nEnrichment (log2FC) of hybrids between Stress 1 and each partner MP (rows), per cancer type. Grey = not tested.\n\n\n\n\n\n\n\nShare of possible activity / lineage hybrids that Stress 1 forms in each cancer type.\n\n\n\n\n\n\n\n\nStress 2\nMP class: Activity\nTop genes (most frequent across NMF programs first; 66 total): HSPH1, HSPA1A, CHORDC1, DNAJA1, DNAJB1, DNAJB6, HSPA1B, CACYBP, HSPD1, SERPINH1, ZFAND2A, HSP90AA1, HSPA6, CLK1, HSPA8, HSPB1, P4HA1, AHSA1, BAG3, HSPE1, NOP58, STIP1, TRA2B, FXR1, LARP4, …\n\n\nAll 66 genes\n\nHSPH1, HSPA1A, CHORDC1, DNAJA1, DNAJB1, DNAJB6, HSPA1B, CACYBP, HSPD1, SERPINH1, ZFAND2A, HSP90AA1, HSPA6, CLK1, HSPA8, HSPB1, P4HA1, AHSA1, BAG3, HSPE1, NOP58, STIP1, TRA2B, FXR1, LARP4, MORF4L2, PGK1, PTGES3, TCP1, UBE2B, BTG2, CRYAB, DEDD2, DNAJA4, DNAJB4, HNRNPU, HSP90AB1, HSPA4, HSPA9, ID3, JMJD6, MRPL18, NR4A1, TCEAL9, UBC, USPL1, YWHAG, BNIP3L, EIF5, ELOVL5, FKBP4, FLNB, FOS, G0S2, HSPA4L, IFRD1, JUN, MCL1, PPP1R15A, RAB1A, RLF, RND3, RNF24, RSRC2, TAF7, WSB1\n\n\nNotes\n\nWrite notes here.\n\n\n\n\n\n\n\nEnrichment (log2FC) of hybrids between Stress 2 and each partner MP (rows), per cancer type. Grey = not tested.\n\n\n\n\n\n\n\nShare of possible activity / lineage hybrids that Stress 2 forms in each cancer type.\n\n\n\n\n\n\n\n\nInterferon/MHC-II (I)\nMP class: Activity\nTop genes (most frequent across NMF programs first; 99 total): CD74, HLA-DRA, IFI6, ISG15, HLA-DRB1, IFIT3, PSMB9, HLA-DPA1, STAT1, HLA-B, MX1, IFI44L, HLA-DPB1, UBE2L6, RARRES3, OAS1, IFITM3, TNFSF10, IFITM1, BST2, HLA-DMA, TAP1, HLA-DQB1, IFIT1, GBP1, …\n\n\nAll 99 genes\n\nCD74, HLA-DRA, IFI6, ISG15, HLA-DRB1, IFIT3, PSMB9, HLA-DPA1, STAT1, HLA-B, MX1, IFI44L, HLA-DPB1, UBE2L6, RARRES3, OAS1, IFITM3, TNFSF10, IFITM1, BST2, HLA-DMA, TAP1, HLA-DQB1, IFIT1, GBP1, IFI35, HLA-C, HLA-A, HLA-E, IFI27, HLA-DRB5, LAP3, PARP14, TYMP, ISG20, PLSCR1, WARS, HLA-DQA1, IFI44, SOD2, B2M, GBP2, C1S, PSMB8, CXCL10, HLA-F, XAF1, C1R, IRF1, PARP9, IFIT2, LGALS3BP, SAA1, EPSTI1, IRF7, CLU, SLPI, LCN2, SAT1, CTSS, LY6E, MMP7, RNF213, CFB, OAS3, RARRES1, TRIM22, OAS2, S100A9, SAMD9, IFIH1, PSME2, SERPING1, APOL2, IFITM2, IL32, MT2A, SAMD9L, SRGN, NNMT, PDZK1IP1, GBP4, APOL1, APOL6, HLA-DMB, C3, MX2, S100A4, S100A6, CP, TYROBP, WFDC2, ANXA1, ARHGDIB, EIF2AK2, FCER1G, IDO1, LYZ, NUPR1\n\n\nNotes\n\nWrite notes here.\n\n\n\n\n\n\n\nEnrichment (log2FC) of hybrids between Interferon/MHC-II (I) and each partner MP (rows), per cancer type. Grey = not tested.\n\n\n\n\n\n\n\nShare of possible activity / lineage hybrids that Interferon/MHC-II (I) forms in each cancer type.\n\n\n\n\n\n\n\n\nChromatin\nMP class: Activity\nTop genes (most frequent across NMF programs first; 105 total): GOLGB1, MT-ND6, DST, SYNE2, ZNF638, GOLGA4, ASH1L, PHF3, SPEN, BDP1, KCNQ1OT1, MACF1, ATRX, RIF1, TRIM44, DSP, NORAD, CEP350, NIPBL, SMC1A, TRIP11, SMG1, NKTR, RANBP2, SLK, …\n\n\nAll 105 genes\n\nGOLGB1, MT-ND6, DST, SYNE2, ZNF638, GOLGA4, ASH1L, PHF3, SPEN, BDP1, KCNQ1OT1, MACF1, ATRX, RIF1, TRIM44, DSP, NORAD, CEP350, NIPBL, SMC1A, TRIP11, SMG1, NKTR, RANBP2, SLK, HNRNPU, PCM1, SETD2, SMARCA5, BPTF, BAZ1B, SETX, BCLAF1, MSH6, PAXBP1, RB1CC1, DYNC1H1, ENAH, GOLIM4, KIDINS220, MIA3, PRPF4B, CHD4, UBR5, AHCTF1, AKAP9, ARGLU1, EIF4G1, PTPN11, SHPRH, ANKRD11, ARHGAP5, FTX, KMT2C, LARP1, MAP4K4, NOP14, SMC5, SMCHD1, SPTBN1, TAF15, TJP1, TOP2B, CAMSAP2, DDX17, FAT1, KMT2A, MGEA5, NFIA, NIN, ROCK2, SPAG9, SUPT16H, TAOK1, USP34, UTRN, XIST, ZC3H13, ACIN1, BAZ2B, CEP170, EIF3A, NUFIP2, PNN, PRKDC, PRRC2B, ZCCHC11, ZKSCAN1, ZNF292, APP, FAM208B, FNBP1L, JMJD1C, KIF1B, NCL, NEAT1, NRD1, NRDC, OGA, PARP14, PPFIA1, SAFB, SKIL, SNRNP200, TPR\n\n\nNotes\n\nWrite notes here.\n\n\n\n\n\n\n\nEnrichment (log2FC) of hybrids between Chromatin and each partner MP (rows), per cancer type. Grey = not tested.\n\n\n\n\n\n\n\nShare of possible activity / lineage hybrids that Chromatin forms in each cancer type.",
+    "crumbs": [
+      "Focused Analyses",
+      "Per MP"
+    ]
+  }
+]
